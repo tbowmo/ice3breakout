@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-05-09 BZR 5648)-product   date = tor 06 aug 2015 13:17:17 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-05-09 BZR 5648)-product   date = tor 06 aug 2015 19:43:13 CEST
 
 BeginCmp
 TimeStamp = /55C34AA1;
@@ -73,8 +73,22 @@ EndCmp
 BeginCmp
 TimeStamp = /55C3465C;
 Reference = P4;
-ValeurCmp = CONN_02X03;
+ValeurCmp = Supply select;
 IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C35467;
+Reference = P5;
+ValeurCmp = Supply;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C352CA;
+Reference = P6;
+ValeurCmp = GND;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x01;
 EndCmp
 
 BeginCmp
@@ -95,14 +109,14 @@ BeginCmp
 TimeStamp = /55C33F34;
 Reference = U1;
 ValeurCmp = AP1117D33;
-IdModule  = Housings_SOT-89:SOT89-3_Housing_Handsoldering;
+IdModule  = SMD_Packages:SOT-223;
 EndCmp
 
 BeginCmp
 TimeStamp = /55C33EF0;
 Reference = U2;
 ValeurCmp = AP1117D18;
-IdModule  = Housings_SOT-89:SOT89-3_Housing_Handsoldering;
+IdModule  = SMD_Packages:SOT-223;
 EndCmp
 
 EndListe
