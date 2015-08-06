@@ -1,0 +1,108 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-09 BZR 5648)-product   date = tor 06 aug 2015 13:17:17 CEST
+
+BeginCmp
+TimeStamp = /55C34AA1;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C34A42;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C34A7C;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C247D8;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = w_conn_strip:vasch_strip_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C2489D;
+Reference = CON2;
+ValeurCmp = AVR-JTAG-10;
+IdModule  = w_conn_strip:vasch_strip_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C24911;
+Reference = CON3;
+ValeurCmp = AVR-PDI-6;
+IdModule  = w_conn_strip:vasch_strip_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C340B0;
+Reference = CON4;
+ValeurCmp = USB-MICRO-B;
+IdModule  = mysensors_connectors:Micro_USB;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C24E98;
+Reference = P1;
+ValeurCmp = Jtag ICE3;
+IdModule  = mysensors_connectors:FCI_10P_HDR;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C252B4;
+Reference = P2;
+ValeurCmp = Cortex M0 debug;
+IdModule  = mysensors_connectors:FCI_10P_HDR;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C257FC;
+Reference = P3;
+ValeurCmp = ice3 expansion;
+IdModule  = mysensors_connectors:FCI_10P_HDR;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C3465C;
+Reference = P4;
+ValeurCmp = CONN_02X03;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C27301;
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = Resistors_SMD:R_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C24A1B;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = mysensors_buttons:SW_SPST_SMD_J-LEAD_4.3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C33F34;
+Reference = U1;
+ValeurCmp = AP1117D33;
+IdModule  = Housings_SOT-89:SOT89-3_Housing_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C33EF0;
+Reference = U2;
+ValeurCmp = AP1117D18;
+IdModule  = Housings_SOT-89:SOT89-3_Housing_Handsoldering;
+EndCmp
+
+EndListe
