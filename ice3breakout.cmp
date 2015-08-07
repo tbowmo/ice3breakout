@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-05-09 BZR 5648)-product   date = tor 06 aug 2015 19:43:13 CEST
+Cmp-Mod V01 Created by Cvpcb (2015-05-09 BZR 5648)-product   date = fre 07 aug 2015 16:01:51 CEST
 
 BeginCmp
 TimeStamp = /55C34AA1;
@@ -22,6 +22,13 @@ IdModule  = Capacitors_SMD:C_0603_HandSoldering;
 EndCmp
 
 BeginCmp
+TimeStamp = /55C4C554;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
 TimeStamp = /55C247D8;
 Reference = CON1;
 ValeurCmp = AVR-ISP-6;
@@ -33,13 +40,6 @@ TimeStamp = /55C2489D;
 Reference = CON2;
 ValeurCmp = AVR-JTAG-10;
 IdModule  = w_conn_strip:vasch_strip_5x2;
-EndCmp
-
-BeginCmp
-TimeStamp = /55C24911;
-Reference = CON3;
-ValeurCmp = AVR-PDI-6;
-IdModule  = w_conn_strip:vasch_strip_3x2;
 EndCmp
 
 BeginCmp
