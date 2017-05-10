@@ -1,0 +1,35 @@
+commit cf284ff2a7c86d25c374c23633b2661cd3c88868
+Author: Thomas Mørch <thomas-nospam@bowmo.dk>
+Date:   Wed May 10 20:32:30 2017 +0200
+
+    Added extra GND pins
+
+commit dcbc1dd2ff2a37ea33b76207850b5bf189c14d91
+Author: Thomas Mørch <thomas@bowmo.dk>
+Date:   Sat Aug 8 08:52:14 2015 +0200
+
+    V1 board ready for manufacturing
+
+commit 3f584fbfd21a6034842bf85d4df1e5a851961473
+Author: Thomas Mørch <thomas@bowmo.dk>
+Date:   Fri Aug 7 21:40:16 2015 +0200
+
+    closes #1, closes #2, closes #3
+
+commit f156c87ba48efb7f2e0195cf1f4b9c8c84e492b0
+Author: Thomas Mørch <thomas@bowmo.dk>
+Date:   Thu Aug 6 22:44:07 2015 +0200
+
+    Added pin legend to silkscreen, OSHW logo to bottom layer copper
+
+commit 9baca640dfa86d6ceb3a26b4b56dafd38c1387f8
+Author: Thomas Mørch <thomas@bowmo.dk>
+Date:   Thu Aug 6 20:13:20 2015 +0200
+
+    Added schematic as pdf, and manufacturing files
+
+commit cfab00ed80626d42e48364993dbe67ec9d78b88e
+Author: Thomas Mørch <thomas@bowmo.dk>
+Date:   Thu Aug 6 13:33:15 2015 +0200
+
+    Initial commit
